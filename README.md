@@ -5,6 +5,10 @@
 Create a smart contract which takes equal capital from two strategies, creates an LP, and farms.
 Two vaults provide funds via a provider strategy to a secondary contract called Joint. The joint manages a hedged LP position.
 
+Provider of usdc: https://etherscan.io/address/0xB1bC173c2BCC98E8EEDE8Af0443AcE29b8fA2992#code
+Provider of weth: https://etherscan.io/address/0x997f3e5cae4455cfd225b5e43d2382c7f6b7c6e4
+Joint: https://etherscan.io/address/0x997f3e5cae4455cfd225b5e43d2382c7f6b7c6e4
+
 ## WantA and WantB strats
 
 Strategist will decided a fix amount in usd value. Let's use 10k usd as an example.
