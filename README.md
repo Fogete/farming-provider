@@ -1,8 +1,9 @@
-# Yearn Joint Strategy
+# Joint Strategy
 
 ## Intro
 
 Create a smart contract which takes equal capital from two strategies, creates an LP, and farms.
+Two vaults provide funds via a provider strategy to a secondary contract called Joint. The joint manages a hedged LP position.
 
 ## WantA and WantB strats
 
