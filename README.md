@@ -35,7 +35,7 @@ The `takeProfit` flag is used in `harvest()` to decide if want should go to `Joi
 
 ## JointStrategy
 
-Joint is the contract in charge of:
+Joint is in charge of:
 
 - Creating the LP
 - Harvesting profits
